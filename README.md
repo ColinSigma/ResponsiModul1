@@ -5,7 +5,7 @@
 API ini dibangun dengan arsitektur MVC (Model-View-Controller) menggunakan Express.js dan Supabase.
 
 ## Base URL
-(https://responsimodul1ppb-eds2d2879-kelompok-28.vercel.app)
+https://responsimodul1ppb-am4r78qn6-kelompok-28.vercel.app
 
 ## Struktur Folder
 - `src/config/`: Konfigurasi klien Supabase
