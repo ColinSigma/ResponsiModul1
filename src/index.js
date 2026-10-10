@@ -11,7 +11,7 @@ app.use(express.json());
 app.use('/loans', loanRoutes);
 
 app.get('/', (req, res) => {
-    res.json({ message: "API Perpustakaan Modular Berjalan!" });
+    res.json({ message: "Never Gonna Give You Up Never Gonna Let you Down" });
 });
 
 const PORT = process.env.PORT || 3000;
